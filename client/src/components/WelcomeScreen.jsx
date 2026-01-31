@@ -30,7 +30,7 @@ const WelcomeScreen = ({ onWelcomeComplete }) => {
   const currentColors = colors[theme] || colors.dark;
   const portfolioUrl = "www.devlyhub.in";
   const welcomeMessages = [
-    "Crafting digital experiences",
+    
     "Software Engineer",
     "Full-stack development"
   ];
